@@ -1,0 +1,7 @@
+C:\Users\Jesse\source\repos\NewTekVizRT Questions\SortingMaterials\SortingMaterials\bin\Debug\SortingMaterials.exe.config
+C:\Users\Jesse\source\repos\NewTekVizRT Questions\SortingMaterials\SortingMaterials\bin\Debug\SortingMaterials.exe
+C:\Users\Jesse\source\repos\NewTekVizRT Questions\SortingMaterials\SortingMaterials\bin\Debug\SortingMaterials.pdb
+C:\Users\Jesse\source\repos\NewTekVizRT Questions\SortingMaterials\SortingMaterials\obj\Debug\SortingMaterials.csprojAssemblyReference.cache
+C:\Users\Jesse\source\repos\NewTekVizRT Questions\SortingMaterials\SortingMaterials\obj\Debug\SortingMaterials.csproj.CoreCompileInputs.cache
+C:\Users\Jesse\source\repos\NewTekVizRT Questions\SortingMaterials\SortingMaterials\obj\Debug\SortingMaterials.exe
+C:\Users\Jesse\source\repos\NewTekVizRT Questions\SortingMaterials\SortingMaterials\obj\Debug\SortingMaterials.pdb

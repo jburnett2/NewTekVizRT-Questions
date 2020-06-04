@@ -1,0 +1,7 @@
+C:\Users\Jesse\source\repos\NewTekVizRT Questions\NaturalNumberSums\NaturalNumberSums\bin\Debug\NaturalNumberSums.exe.config
+C:\Users\Jesse\source\repos\NewTekVizRT Questions\NaturalNumberSums\NaturalNumberSums\bin\Debug\NaturalNumberSums.exe
+C:\Users\Jesse\source\repos\NewTekVizRT Questions\NaturalNumberSums\NaturalNumberSums\bin\Debug\NaturalNumberSums.pdb
+C:\Users\Jesse\source\repos\NewTekVizRT Questions\NaturalNumberSums\NaturalNumberSums\obj\Debug\NaturalNumberSums.csproj.CoreCompileInputs.cache
+C:\Users\Jesse\source\repos\NewTekVizRT Questions\NaturalNumberSums\NaturalNumberSums\obj\Debug\NaturalNumberSums.exe
+C:\Users\Jesse\source\repos\NewTekVizRT Questions\NaturalNumberSums\NaturalNumberSums\obj\Debug\NaturalNumberSums.pdb
+C:\Users\Jesse\source\repos\NewTekVizRT Questions\NaturalNumberSums\NaturalNumberSums\obj\Debug\NaturalNumberSums.csprojAssemblyReference.cache
